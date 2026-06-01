@@ -1,6 +1,6 @@
 # Olá sou Leandro Rosa, seja bem-vindo!
 
-- 🖊️ Hoje trabalho com Análise de Dados e Automações para área Fiscal  
+- 🖊️ Hoje trabalho com Análise de Dados e automações para área Fiscal  
 - 👍 Estudando Engenharia de Dados  
 - 🎯 Projetos de tratamento de dados  
 - 📈 Ganhos em mais de 92% em produtividade com tecnologia para os usuários  
