@@ -1,9 +1,18 @@
-# Olá sou Leandro Rosa, seja bem-vindo!
+# Olá, eu sou Leandro Rosa! 👋
 
-- 🖊️ Hoje trabalho com Análise de Dados e automações para área Fiscal  
-- 👍 Estudando Engenharia de Dados  
-- 🎯 Projetos de Análise de Dados, Power BI, Machine Learning e Data Science  
-- 📈 Ganhos em mais de 92% em produtividade com tecnologia para os usuários  
+💼 Analista de Dados com foco em automação de processos fiscais e geração de valor através da tecnologia.
+
+### 🚀 Atualmente
+- 📊 Desenvolvendo soluções de Análise de Dados (SQL, Power BI, Power Query e Python) para a área Fiscal
+- 🤖 Criando automações em Python para aumentar a produtividade operacional
+- ☁️ Estudando Engenharia de Dados e Arquiteturas de Dados Modernas com Agentes de IA
+- 📈 Databricks, Apache Spark, NoSQL, APIs, LLMs, Redshift, AWS, Azure
+- 🎯 Atuando em projetos de dados e AIs
+
+### 🎯 Resultados
+- 🚀 Mais de 92% de ganho de produtividade em processos automatizados
+- ⏱️ Redução significativa de atividades manuais e retrabalho
+- 📋 Apoio à tomada de decisão baseada em dados
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandrorosa&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leandrorosa&theme=dracula)
