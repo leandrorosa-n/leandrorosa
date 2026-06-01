@@ -2,7 +2,7 @@
 
 - 🖊️ Hoje trabalho com Análise de Dados e automações para área Fiscal  
 - 👍 Estudando Engenharia de Dados  
-- 🎯 Projetos de tratamento de dados  
+- 🎯 Projetos de Análise de Dados, Power BI, Machine Learning e Data Science  
 - 📈 Ganhos em mais de 92% em produtividade com tecnologia para os usuários  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandrorosa&theme=dracula)
