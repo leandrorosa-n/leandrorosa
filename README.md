@@ -1,4 +1,4 @@
-# Olá sou Leandro Rosa, seja bem-vindo!  
+# Olá sou Leandro Rosa, seja bem-vindo!
 
 - 🖊️ Hoje trabalho com Análise de Dados e Automações para área Fiscal  
 - 👍 Estudando Engenharia de Dados  
