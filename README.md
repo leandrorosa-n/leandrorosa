@@ -4,16 +4,16 @@
 
 
 ### 🚀 Atualmente
-- 📊 Desenvolvendo soluções de Análise de Dados (SQL, Power BI, Power Query e Python) para a área Fiscal
-- 🤖 Criando automações em Python para aumentar a produtividade operacional
-- ☁️ Estudando Engenharia de Dados e Arquiteturas de Dados Modernas com Agentes de IA
-- 📈 Databricks, Apache Spark, NoSQL, APIs, LLMs, Redshift, AWS, Azure
-- 🎯 Atuando em projetos de dados e AIs
+- Desenvolvendo soluções de Análise de Dados (SQL, Power BI, Power Query e Python) para a área Fiscal
+- Criando automações em Python para aumentar a produtividade operacional
+- Estudando Engenharia de Dados e Arquiteturas de Dados Modernas com Agentes de IA
+- Databricks, Apache Spark, NoSQL, APIs, LLMs, Redshift, AWS, Azure
+- Atuando em projetos de dados e AIs
 
 ### 🎯 Resultados
-- 🚀 Mais de 92% de ganho de produtividade em processos automatizados
-- ⏱️ Redução significativa de atividades manuais e retrabalho
-- 📋 Apoio à tomada de decisão baseada em dados
+- Mais de 92% de ganho de produtividade em processos automatizados
+- Redução significativa de atividades manuais e retrabalho
+- Apoio à tomada de decisão baseada em dados
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandrorosa&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leandrorosa&theme=dracula)
