@@ -39,9 +39,7 @@
 
 ## 🎯 Áreas de Interesse
 
-📊 Análise de Dados 
-🤖 Inteligência Artificial  
-☁️ Engenharia de Dados  
+📊 Análise de Dados 🤖 Inteligência Artificial  ☁️ Engenharia de Dados  
 
 ##
 
