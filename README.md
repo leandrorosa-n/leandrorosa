@@ -3,14 +3,14 @@
 💼 Analista de Dados com foco em automação de processos fiscais e geração de valor através da tecnologia.
 
 
-### 🚀 Atualmente
+### Atualmente
 - Desenvolvendo soluções de Análise de Dados (SQL, Power BI, Power Query e Python) para a área Fiscal
 - Criando automações em Python para aumentar a produtividade operacional
 - Estudando Engenharia de Dados e Arquiteturas de Dados Modernas com Agentes de IA
 - Databricks, Apache Spark, NoSQL, APIs, LLMs, Redshift, AWS, Azure
 - Atuando em projetos de dados e AIs
 
-### 🎯 Resultados
+### Resultados
 - Mais de 92% de ganho de produtividade em processos automatizados
 - Redução significativa de atividades manuais e retrabalho
 - Apoio à tomada de decisão baseada em dados
@@ -21,7 +21,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leandrorosa&theme=dracula&utcOffset=-3)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leandrorosa&theme=dracula)
 
-
+## Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Leandro-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,7 +37,7 @@
 
 </div>
 
-## 🎯 Áreas de Interesse
+## Áreas de Interesse
 
 📊 Análise de Dados 🤖 Inteligência Artificial  ☁️ Engenharia de Dados  
 
