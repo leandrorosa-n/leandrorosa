@@ -17,11 +17,12 @@
   <img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leandro-Postgres" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Postgresql_elephant.svg">
-<img align="center" alt="Leandro-Git" height="30" width="40" src="https://git-scm.com/downloads/logos">
-<img align="center" alt="Leandro-Excel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg
-<img align="center" alt="Leandro-PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg">
-<img align="center" alt="Leandro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Leandro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Leandro-Postgres" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
+  <img align="center" alt="Leandro-Oracle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Leandro-Git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
+  <img align="center" alt="Leandro-AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
+  <img align="center" alt="Leandro-Azure" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
 
 </div>
 
