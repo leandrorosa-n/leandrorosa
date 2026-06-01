@@ -1,16 +1,12 @@
 # Olá sou Leandro Rosa, seja bem-vindo!  
 
-🖊️Hoje trabalho com Análise de Dados e Automações para área Fiscal
-👍Estudando Engenharia de Dados
-🎯Projetos de tratamento de dados
-📈Ganhos em mais de 92% em produtividade com tecnologia para os usuários
+- 🖊️ Hoje trabalho com Análise de Dados e Automações para área Fiscal  
+- 👍 Estudando Engenharia de Dados  
+- 🎯 Projetos de tratamento de dados  
+- 📈 Ganhos em mais de 92% em produtividade com tecnologia para os usuários  
 
-<div>
-  <a href="https://github.com/leandrorosa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrorosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorosa&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandrorosa&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leandrorosa&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leandro-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
