@@ -1,6 +1,6 @@
 # Olá, eu sou Leandro Rosa! 👋
 
-💼 Analista de Dados com foco em automação de processos fiscais e geração de valor através da tecnologia.
+💼 Analista Tributário e estudante em Dados com foco em automação de processos fiscais e geração de valor através da tecnologia.
 
 
 ### Atualmente
