@@ -50,13 +50,6 @@ Como **Analista Tributário** e **Estudante em Dados**, tenho atuado em projetos
 ![Top Languages Donut](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leandrorosa-n&theme=github_dark)
 
 
-
-
-
-
-
-
-
 ---
 
 
