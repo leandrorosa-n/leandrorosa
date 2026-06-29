@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou **Leandro Rosa**
 
-💼 **Analista Tributário** | 📊 **Estudante em Dados**  
-Com foco em **automação de processos fiscais** e **geração de valor através da tecnologia**.
+Como **Analista Tributário** e **Estudante em Dados**, tenho atuado em projetos estratégicos ligados à reforma tributária em empresas do setor de alimentos. Minha experiência inclui o desenvolvimento de modelos de simulação fiscal para avaliar impactos de mudanças legislativas, criação de dashboards interativos em Power BI para monitorar cenários de carga tributária e implementação de rotinas automatizadas em Python para adequação de processos internos. Entre os resultados, destaco a redução de riscos de conformidade, maior agilidade na análise de créditos e débitos fiscais e suporte direto à tomada de decisão da diretoria. Esses projetos reforçam meu compromisso em unir tecnologia e inteligência tributária, garantindo que empresas de alimentos estejam preparadas para os desafios da nova legislação e possam transformar dados em vantagem competitiva.
 
 ---
 
